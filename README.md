@@ -1,9 +1,6 @@
 ### Hi there I'm Fredy Acuña, a pleasure to meet you 👋
 
-
-**Acinorev07/Acinorev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Texto alternativo](https://raw.githubusercontent.com/Acinorev07/Acinorev07/b4cde8ef8572a9de295c2f5d6815870abe64c2ed/portada%20(1).jpg)
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/Acinorev07/Acinorev07/b4cde8ef8572a9de295c2f5d6815870abe64c2ed/portada%20(1).jpg" style="width: 50%; border: 1px solid black; margin: 10px;">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
