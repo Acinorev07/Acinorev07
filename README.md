@@ -1,6 +1,6 @@
 ### Hi there I'm Fredy Acuña, a pleasure to meet you 👋
 
-<img src="https://raw.githubusercontent.com/Acinorev07/Acinorev07/b4cde8ef8572a9de295c2f5d6815870abe64c2ed/portada%20(1).jpg" style="width: 50%; border: 1px solid black; margin: 10px;">
+<img src="https://raw.githubusercontent.com/Acinorev07/Acinorev07/b4cde8ef8572a9de295c2f5d6815870abe64c2ed/portada%20(1).jpg" style="border-radius: 10px; width: 500px; height: 300px;">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
